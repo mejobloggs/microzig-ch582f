@@ -1,3 +1,11 @@
+CH583f links:
+
+ - SVD: https://github.com/ch32-rs/ch32-rs/blob/main/svd/fixed/ch58x.svd
+
+ - WeAct linker file? https://github.com/WeActStudio/WeActStudio.WCH-BLE-Core/blob/master/Examples/CH582/template/Ld/Link.ld
+
+ - WeAct blinky example? https://github.com/WeActStudio/WeActStudio.WCH-BLE-Core/blob/master/Examples/CH582/template/src/Main.c
+
 = Hardware Support Package Template
 
 1. Update LICENSE file
